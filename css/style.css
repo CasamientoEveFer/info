@@ -786,7 +786,10 @@ select.form-control:not([size]):not([multiple]){
 	color: #63c7bd;
 }
 
-
+.flag{
+    width: 30px;
+    padding-bottom: 3px;
+}
 
 
 
